@@ -1,5 +1,15 @@
 Hola
+<<<<<<< HEAD
+que onda
+=======
 Como va
 soy jose
 maty :D
+<<<<<<< HEAD
+>>>>>>> 82e94e2f0b3b4fd967543491d5f1d5e0ce2ee51c
+soy luchooo
+
+=======
 tomas
+>>>>>>> 96315b700e881e807702c647d399331cbd69fee3
+hola
