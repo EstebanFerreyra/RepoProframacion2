@@ -19,4 +19,8 @@ tomas
 >>>>>>> 96315b700e881e807702c647d399331cbd69fee3
 >>>>>>> ec2c812bc5ab9249c3e03423229b1589b11ab926
 hola
+<<<<<<< HEAD
 aquileborracho
+=======
+Valentin
+>>>>>>> 3c755fa4dc3dc52c9fc7af6c40dbb813daa03e59
