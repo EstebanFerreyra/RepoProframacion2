@@ -1,3 +1,9 @@
 hola
 Como hacer un fernandito
 paso 1: 30% fernet 70% coca cola
+<<<<<<< HEAD
+=======
+buena info
+fernet god
+sale stardew
+>>>>>>> 74a9098196c1b766a5a5426cd174c9a1478108a1
